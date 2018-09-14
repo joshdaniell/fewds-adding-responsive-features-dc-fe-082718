@@ -60,7 +60,7 @@
     display: block;
   }
   #social {
-    position: relative;
+    position: absolute;
     display: inline;
   }
 }
