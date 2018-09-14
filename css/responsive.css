@@ -3,7 +3,7 @@
     width: 90%;
   }
   #social {
-    display: absolute;
+    position: absolute;
     width: auto;
     top: 82px;
     right: 4px;
