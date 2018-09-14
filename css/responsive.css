@@ -50,6 +50,9 @@
 }
 
 @media (max-width: 700px) {
+  #navbar nav {
+    display: none;
+  }
   #navbar nav a.menu-icon {
     display: block;
   }
