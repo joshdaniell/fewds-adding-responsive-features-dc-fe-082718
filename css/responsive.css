@@ -61,6 +61,7 @@
   }
   #social {
     position: relative;
+    display: inline;
     float: right;
   }
 }
