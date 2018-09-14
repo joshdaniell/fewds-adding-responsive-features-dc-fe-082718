@@ -60,6 +60,6 @@
     display: block;
   }
   #social {
-    display: inline;
+    position: relative;
   }
 }
